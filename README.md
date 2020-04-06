@@ -1,2 +1,2 @@
 # elevator_game
-a simple elevator_game with python
+intro to programming with text elevator_game python
