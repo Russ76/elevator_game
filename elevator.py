@@ -70,5 +70,4 @@ while True:
             print_pause("You head back to the elevator.")
 
     print_pause("Where would you like to go next?")
-
-    print_pause("Where would you like to go next?")
+    
